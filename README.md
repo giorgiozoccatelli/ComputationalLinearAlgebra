@@ -1,6 +1,6 @@
 # Computational Linear Algebra
 
-This repository contains personal exercises and project implementations developed for the course *Computational Linear Algebra for Data Science* at Politecnico di Torino.
+This repository contains personal exercises and project implementations developed for the course *02TWYNG - Computational Linear Algebra for Data Science* at Politecnico di Torino.
 
 ## 📚 Course Overview
 
